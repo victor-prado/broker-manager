@@ -7,6 +7,11 @@ This project is a short GUI application to manage a database of clients. It is m
 
 It was made thinking of people around me (brokers), but the main purpose of starting this project was to study and get pratice, so any contribution and feedback will be really appreciated.
 
+### Pre-Installation Requirements ###
+
+[Python 3 +](https://www.python.org/)
+
+
 Installation
 ---------------
 
