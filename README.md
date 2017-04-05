@@ -5,7 +5,7 @@ This project is a short GUI application to manage a database of clients. It is m
 
 ### Motivation ###
 
-It was made thinking of people around me (brokers), but the main purpose of starting this project was to study and get pratice, so any contribution and feedback will be really appreciated.
+It was made thinking of people around me (brokers), but the main purpose of starting this project was to study and get practice, so any contribution and feedback will be really appreciated.
 
 ### Pre-Installation Requirements ###
 
@@ -26,7 +26,7 @@ Then you just need to run the Main.py to execute the application
 ### Credits ###
 
  * Created by Victor do Prado
- * Email adress: victor.prasa@gmail.com
+ * Email address: victor.prasa@gmail.com
  
  
 ### License ###
